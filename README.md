@@ -1,4 +1,4 @@
-# Programa-de-Fidelizaci-n-de-Clientes
+# Programa-de-Fidelizacion-de-Clientes
 Proyecto 1 - python basico
 Proyecto de Análisis de Datos
 Descripción
